@@ -47,13 +47,6 @@ cd Indian-Railways-Ticket-Price-Prediction
 pip install -r requirements.txt
 ```
 
-## Usage
-After installing the dependencies, you can run the Jupyter notebooks or Python scripts provided in the repository to train the model and make predictions.
-
-```bash
-jupyter notebook
-```
-
 Navigate to the notebook of your choice and run the cells to see the results.
 
 ## Results
