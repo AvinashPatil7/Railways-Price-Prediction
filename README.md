@@ -52,6 +52,7 @@ After installing the dependencies, you can run the Jupyter notebooks or Python s
 
 ```bash
 jupyter notebook
+```
 
 Navigate to the notebook of your choice and run the cells to see the results.
 
